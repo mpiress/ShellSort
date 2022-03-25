@@ -70,3 +70,7 @@ A lista dinâmica disponibilizada possui um arquivo Makefile que realiza todo o 
 </a>
 
 </div>
+
+<a style="color:black" href="mailto:michel@cefetmg.br?subject=[GitHub]%20Source%20Dynamic%20Lists">
+✉️ <i>michel@cefetmg.br</i>
+</a>
