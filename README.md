@@ -48,7 +48,7 @@ Uma peculiaridade do shell sort, em comparação com os demais algoritmos de cus
 
 # Compilação e Execução
 
-A lista dinâmica disponibilizada possui um arquivo Makefile que realiza todo o procedimento de compilação e execução. Para tanto, temos as seguintes diretrizes de execução:
+O método Shell Sort disponibilizado possui um arquivo Makefile que realiza todo o procedimento de compilação e execução. Para tanto, temos as seguintes diretrizes de execução:
 
 
 | Comando                |  Função                                                                                           |                     
